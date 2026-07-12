@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
+outputs/
+*.log
+.DS_Store
+# Dados do IDPT e modelos devem ser adicionados conforme a autorização/licença aplicável
+data/v8/idpt/*.csv
+models/
